@@ -13,7 +13,7 @@ include_once "shared/top.php";
 <a href="main.php" class="btn btn-outline-secondary">Back to Home</a>
 </div>
 <div class="col">
-<img src="./img/error.png" alt="Unexpected error" style="width: 600px;">
+<img src="../img/error.png" alt="Unexpected error" style="width: 600px;">
 
 </div>
 </div>

@@ -34,6 +34,7 @@ header("Location: fcb.php");
 } catch (PDOException $e){
   header("Location: error.php");
 }
+}
 // if (Get)
 else if ($_SERVER['REQUEST_METHOD'] == 'GET'){
     // --- get id from url
